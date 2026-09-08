@@ -15,5 +15,12 @@
     "author": {
         "name": "Appwrite Team",
         "url": "https://github.com/appwrite/sdk-for-dotnet"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ShedsUnlimited/Appwrite-for-Unity.git"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@ShedsUnlimited"
     }
 }
